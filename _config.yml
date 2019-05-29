@@ -1,1 +1,32 @@
-theme: jekyll-theme-cayman
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Nicole.Liao
+tagline:             Nicole2442
+url:                 https://nicole2442.github.io
+paginate:            3
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Nicole Liao
+  url:               https://github.com/Nicole2442
+  email:             nicolekliao@163.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
