@@ -4,8 +4,8 @@ permalink:           pretty
 # Setup
 title:               Nicole.Liao
 tagline:             Nicole2442
-url:                 https://nicole2442.github.io
-paginate:            3
+url:                 "http://getpoole.com"
+paginate:            1
 baseurl:             ""
 
 # Assets
