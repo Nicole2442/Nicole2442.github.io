@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Nicole.Liao
 tagline:             Nicole2442
-url:                 "http://getpoole.com"
+url:                 "Nicole2442.github.io"
 paginate:            1
 baseurl:             ""
 
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/Nicole2442/
 
 # Gems
 gems:
