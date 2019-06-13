@@ -6,7 +6,8 @@ title:               Nicole.Liao
 tagline:             Nicole2442
 url:                 "Nicole2442.github.io"
 paginate:            1
-baseurl:             ""
+baseurl:             "/HW-acceleration"
+url:                 "https://github.com/Nicole2442" 
 
 # Assets
 #
