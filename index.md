@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/Nicole2442/Nicole2442.gith
 
 1. [How to run your own model (Keras or Tensorflow) with Intel Movidius Neural Compute Stick and Google Coral Edge TPU USB accelerator](https://nicole2442.github.io/Edge-Computing/).
 2. [Time series processing: overview](https://nicole2442.github.io/time-series-processing/).
-3. [Live streaming on Raspberry Pi](https://nicole2442.github.io/raspberry_pi_live/).
+3. [Live streaming on Raspberry Pi](https://nicole2442.github.io/Raspberry_pi_live/).
